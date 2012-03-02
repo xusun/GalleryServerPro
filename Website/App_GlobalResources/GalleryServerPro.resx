@@ -6484,10 +6484,10 @@
     <value>Version 2.5 replaces the SQLite database with Microsoft SQL Server CE. It offers all the advantages of SQLite, including a locally stored database file with no external dependencies, while adding new features.</value>
     <comment>&lt;2011.06.10&gt;</comment>
   </data>
-  <data name="Installer_Upgrade_MigrateToSqlCe_Dtl2" xml:space="preserve">
+  <!--<data name="Installer_Upgrade_MigrateToSqlCe_Dtl2" xml:space="preserve">
     <value>Note: This operation copies data from galleryserverpro_data.sqlite to GalleryServerPro_Data.sdf in the App_Data directory. When complete, you can delete the file galleryserverpro_data.sqlite.</value>
     <comment>&lt;2011.06.10&gt;</comment>
-  </data>
+  </data>-->
   <data name="Installer_Upgrade_MigrateToSqlCe_Dtl3" xml:space="preserve">
     <value>Click Next to migrate the data from SQLite to SQL CE.</value>
     <comment>&lt;2011.06.10&gt;</comment>
