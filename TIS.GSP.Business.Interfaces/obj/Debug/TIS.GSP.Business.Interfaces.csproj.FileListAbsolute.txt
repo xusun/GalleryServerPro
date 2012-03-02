@@ -5,3 +5,10 @@ D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.Business.
 D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.Business.Interfaces\bin\Debug\EntityFramework.xml
 D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.Business.Interfaces\obj\Debug\GalleryServerPro.Business.Interfaces.dll
 D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.Business.Interfaces\obj\Debug\GalleryServerPro.Business.Interfaces.pdb
+C:\dd\xusun\GalleryServerPro\TIS.GSP.Business.Interfaces\bin\Debug\GalleryServerPro.Business.Interfaces.dll
+C:\dd\xusun\GalleryServerPro\TIS.GSP.Business.Interfaces\bin\Debug\GalleryServerPro.Business.Interfaces.pdb
+C:\dd\xusun\GalleryServerPro\TIS.GSP.Business.Interfaces\bin\Debug\EntityFramework.dll
+C:\dd\xusun\GalleryServerPro\TIS.GSP.Business.Interfaces\bin\Debug\EntityFramework.xml
+C:\dd\xusun\GalleryServerPro\TIS.GSP.Business.Interfaces\obj\Debug\ResolveAssemblyReference.cache
+C:\dd\xusun\GalleryServerPro\TIS.GSP.Business.Interfaces\obj\Debug\GalleryServerPro.Business.Interfaces.dll
+C:\dd\xusun\GalleryServerPro\TIS.GSP.Business.Interfaces\obj\Debug\GalleryServerPro.Business.Interfaces.pdb

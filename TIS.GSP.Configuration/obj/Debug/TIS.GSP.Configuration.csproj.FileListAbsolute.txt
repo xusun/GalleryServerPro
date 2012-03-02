@@ -3,3 +3,8 @@ D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.Configura
 D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.Configuration\obj\Debug\ResolveAssemblyReference.cache
 D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.Configuration\obj\Debug\GalleryServerPro.Configuration.dll
 D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.Configuration\obj\Debug\GalleryServerPro.Configuration.pdb
+C:\dd\xusun\GalleryServerPro\TIS.GSP.Configuration\bin\Debug\GalleryServerPro.Configuration.dll
+C:\dd\xusun\GalleryServerPro\TIS.GSP.Configuration\bin\Debug\GalleryServerPro.Configuration.pdb
+C:\dd\xusun\GalleryServerPro\TIS.GSP.Configuration\obj\Debug\ResolveAssemblyReference.cache
+C:\dd\xusun\GalleryServerPro\TIS.GSP.Configuration\obj\Debug\GalleryServerPro.Configuration.dll
+C:\dd\xusun\GalleryServerPro\TIS.GSP.Configuration\obj\Debug\GalleryServerPro.Configuration.pdb

@@ -3,3 +3,8 @@ D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\Website\bin\Galle
 D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\Website\bin\GalleryServerPro.Data.SqlCe.pdb
 D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.Data.SqlCE\obj\Debug\GalleryServerPro.Data.SqlCe.dll
 D:\KuduTesting\GalleryServerPro\GalleryServerPro_V2_5_0_Source\TIS.GSP.Data.SqlCE\obj\Debug\GalleryServerPro.Data.SqlCe.pdb
+C:\dd\xusun\GalleryServerPro\Website\bin\GalleryServerPro.Data.SqlCe.dll
+C:\dd\xusun\GalleryServerPro\Website\bin\GalleryServerPro.Data.SqlCe.pdb
+C:\dd\xusun\GalleryServerPro\TIS.GSP.Data.SqlCE\obj\Debug\ResolveAssemblyReference.cache
+C:\dd\xusun\GalleryServerPro\TIS.GSP.Data.SqlCE\obj\Debug\GalleryServerPro.Data.SqlCe.dll
+C:\dd\xusun\GalleryServerPro\TIS.GSP.Data.SqlCE\obj\Debug\GalleryServerPro.Data.SqlCe.pdb
